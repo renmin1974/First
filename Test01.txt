@@ -1,2 +1,3 @@
 this is a test file created in W10 Explorer folder for GitHub\First(my 1st repo).
+Ok.
 many thanks.
