@@ -1,3 +1,7 @@
 ﻿这是新增行：再次修改本文件。123
 this is a test file created in W10 Explorer folder for GitHub\First(my 1st repo).
 Ok.
+f99fee53359b25561c486c0d58fa70d8b9caed7b
+在GitHub.com上删除repo.hello-world中的2B.data文件后，依然可在历史记录中获取该文件。
+- browse the repo at this point in the history
+- https://github.com/renmin1974/hello-world/tree/f99fee53359b25561c486c0d58fa70d8b9caed7b
